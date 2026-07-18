@@ -1,0 +1,151 @@
+courier_id,vehicle_type,courier_rating
+COUR_001,Moto,4.39
+COUR_002,Bicycle,4.23
+COUR_003,Moto,4.29
+COUR_004,Moto,4.36
+COUR_005,Electric Scooter,4.58
+COUR_006,Moto,4.76
+COUR_007,Bicycle,4.68
+COUR_008,Moto,4.36
+COUR_009,Electric Scooter,4.68
+COUR_010,Moto,4.9
+COUR_011,Moto,4.44
+COUR_012,Bicycle,4.57
+COUR_013,Bicycle,4.53
+COUR_014,Electric Scooter,4.46
+COUR_015,Bicycle,4.49
+COUR_016,Electric Scooter,4.42
+COUR_017,Moto,4.2
+COUR_018,Bicycle,4.44
+COUR_019,Bicycle,4.63
+COUR_020,Moto,4.75
+COUR_021,Bicycle,4.4
+COUR_022,Bicycle,4.38
+COUR_023,Moto,4.52
+COUR_024,Bicycle,4.4
+COUR_025,Bicycle,4.76
+COUR_026,Moto,4.32
+COUR_027,Electric Scooter,4.41
+COUR_028,Electric Scooter,4.53
+COUR_029,Bicycle,4.48
+COUR_030,Moto,4.74
+COUR_031,Moto,4.56
+COUR_032,Moto,4.67
+COUR_033,Bicycle,4.5
+COUR_034,Bicycle,4.84
+COUR_035,Moto,4.99
+COUR_036,Bicycle,4.85
+COUR_037,Moto,4.32
+COUR_038,Moto,4.76
+COUR_039,Electric Scooter,4.46
+COUR_040,Bicycle,4.77
+COUR_041,Electric Scooter,4.48
+COUR_042,Bicycle,4.95
+COUR_043,Bicycle,4.61
+COUR_044,Electric Scooter,4.74
+COUR_045,Moto,4.37
+COUR_046,Moto,4.76
+COUR_047,Bicycle,4.34
+COUR_048,Electric Scooter,4.61
+COUR_049,Bicycle,5.0
+COUR_050,Electric Scooter,4.65
+COUR_051,Electric Scooter,4.35
+COUR_052,Bicycle,4.76
+COUR_053,Electric Scooter,4.89
+COUR_054,Moto,4.91
+COUR_055,Electric Scooter,4.95
+COUR_056,Moto,4.74
+COUR_057,Moto,4.5
+COUR_058,Electric Scooter,4.98
+COUR_059,Bicycle,4.44
+COUR_060,Moto,4.56
+COUR_061,Electric Scooter,4.34
+COUR_062,Bicycle,4.6
+COUR_063,Bicycle,4.49
+COUR_064,Moto,4.78
+COUR_065,Bicycle,4.63
+COUR_066,Moto,4.71
+COUR_067,Bicycle,4.67
+COUR_068,Electric Scooter,4.59
+COUR_069,Electric Scooter,4.55
+COUR_070,Bicycle,4.72
+COUR_071,Moto,4.89
+COUR_072,Bicycle,4.6
+COUR_073,Moto,4.81
+COUR_074,Bicycle,5.0
+COUR_075,Moto,4.42
+COUR_076,Electric Scooter,4.8
+COUR_077,Electric Scooter,4.46
+COUR_078,Moto,4.66
+COUR_079,Electric Scooter,4.26
+COUR_080,Bicycle,4.35
+COUR_081,Bicycle,4.59
+COUR_082,Bicycle,4.52
+COUR_083,Electric Scooter,4.94
+COUR_084,Bicycle,4.37
+COUR_085,Moto,4.49
+COUR_086,Bicycle,4.44
+COUR_087,Bicycle,4.88
+COUR_088,Bicycle,4.77
+COUR_089,Moto,4.44
+COUR_090,Moto,4.4
+COUR_091,Moto,4.27
+COUR_092,Bicycle,4.7
+COUR_093,Bicycle,4.26
+COUR_094,Bicycle,4.24
+COUR_095,Electric Scooter,4.22
+COUR_096,Moto,4.55
+COUR_097,Moto,4.46
+COUR_098,Bicycle,4.99
+COUR_099,Electric Scooter,4.89
+COUR_100,Bicycle,4.23
+COUR_101,Bicycle,4.63
+COUR_102,Bicycle,4.86
+COUR_103,Bicycle,4.97
+COUR_104,Moto,4.87
+COUR_105,Bicycle,4.53
+COUR_106,Moto,4.31
+COUR_107,Bicycle,4.98
+COUR_108,Moto,4.23
+COUR_109,Bicycle,4.55
+COUR_110,Moto,4.4
+COUR_111,Bicycle,4.26
+COUR_112,Moto,4.75
+COUR_113,Bicycle,4.93
+COUR_114,Moto,4.39
+COUR_115,Bicycle,4.35
+COUR_116,Electric Scooter,4.71
+COUR_117,Moto,4.73
+COUR_118,Moto,4.78
+COUR_119,Bicycle,4.65
+COUR_120,Bicycle,4.3
+COUR_121,Bicycle,4.27
+COUR_122,Bicycle,4.45
+COUR_123,Electric Scooter,4.34
+COUR_124,Bicycle,4.81
+COUR_125,Electric Scooter,4.48
+COUR_126,Moto,4.72
+COUR_127,Bicycle,4.96
+COUR_128,Electric Scooter,4.41
+COUR_129,Bicycle,4.95
+COUR_130,Moto,4.63
+COUR_131,Moto,4.69
+COUR_132,Electric Scooter,4.96
+COUR_133,Electric Scooter,4.71
+COUR_134,Electric Scooter,4.74
+COUR_135,Moto,4.3
+COUR_136,Electric Scooter,4.86
+COUR_137,Moto,4.86
+COUR_138,Moto,4.37
+COUR_139,Bicycle,4.37
+COUR_140,Bicycle,4.23
+COUR_141,Moto,4.47
+COUR_142,Moto,4.51
+COUR_143,Moto,4.47
+COUR_144,Bicycle,4.6
+COUR_145,Moto,4.48
+COUR_146,Electric Scooter,4.23
+COUR_147,Moto,4.97
+COUR_148,Moto,4.54
+COUR_149,Moto,4.66
+COUR_150,Moto,4.3
