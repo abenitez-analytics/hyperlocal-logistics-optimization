@@ -33,6 +33,7 @@ To evaluate platform sustainability, the model tracks four interconnected data l
 
 ## Core DAX Measures Implemented:
 ```dax
+
 GMV = SUM(orders[basket_value_euros])
 
 Total Delivery Fees = SUM(orders[delivery_fee_euros])
@@ -43,7 +44,14 @@ Total Revenue = [Total Commissions] + [Total Delivery Fees]
 
 Take Rate % = DIVIDE([Total Revenue], [GMV], 0)
 
-Fulfillment Rate = DIVIDE(CALCULATE(COUNT(orders[order_id]), orders[order_status] = "Delivered"),COUNT(orders[order_id]),0)
+Fulfillment Rate = 
+DIVIDE(
+    CALCULATE(COUNT(orders[order_id]), orders[order_status] = "Delivered"),
+    COUNT(orders[order_id]),
+    0
+)
+Avg Courier Wait Time = AVERAGE(orders[courier_wait_minutes])
+
 
 
 
