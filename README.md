@@ -50,6 +50,7 @@ DIVIDE(
     COUNT(orders[order_id]),
     0
 )
+
 Avg Courier Wait Time = AVERAGE(orders[courier_wait_minutes])
 
 
